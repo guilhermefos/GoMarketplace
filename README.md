@@ -25,3 +25,9 @@
 - [Found a bug? Missing a specific feature?](#bug-issues)
 - [Contributing](#tada-contributing)
 - [License](#closed_book-license)
+
+# :rocket: Features
+
+- Explore all products
+- Add product to cart
+- Remove product from cart
